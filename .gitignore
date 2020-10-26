@@ -1,0 +1,6 @@
+.kitchen/
+*.box
+*.json
+*.lock
+output-step_1/
+packer_cache/
